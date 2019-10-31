@@ -1,0 +1,347 @@
+seqnames	start	end	width	strand	Protein.product	Protein.name	GenBank.Accn	RefSeq.Accn	CLR	alpha	CLR_window_size	highest_CLR	species
+Supercontig_2.1	46391	46909	519	+	EEH10546.1	predicted protein	GG663363.1	na	42.62595	0.0007028416	3776	2.3950182	histoplasmaG186ar
+Supercontig_2.1	151764	152671	908	-	EEH10547.1	WW domain-containing protein	GG663363.1	na	132.4381	0.001439226	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	202611	205470	2860	+	EEH10564.1	fungal specific transcription factor domain-containing protein	GG663363.1	na	7.808508	0.2119103	3776	2.3950182	histoplasmaG186ar
+Supercontig_2.1	364718	366722	2005	-	EEH10622.1	ribosomal RNA-processing protein	GG663363.1	na	5.624241	0.1834994	3776	2.3950182	histoplasmaG186ar
+Supercontig_2.1	367295	367935	641	+	EEH10623.1	proteasome component C11	GG663363.1	na	5.624241	0.1834994	3776	2.3950182	histoplasmaG186ar
+Supercontig_2.1	470457	471366	910	-	EEH10656.1	60S ribosomal protein L11	GG663363.1	na	5.786763	0.3019156	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	886719	887954	1236	-	EEH10809.1	TLD domain-containing protein	GG663363.1	na	7.069448	0.9683575	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	888442	889106	665	-	EEH10810.1	AP-1 complex subunit beta-1	GG663363.1	na	7.069448	0.9683575	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	978009	979147	1139	-	EEH10841.1	alcohol dehydrogenase	GG663363.1	na	7.444925	0.3003142	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	979614	979744	131	-	EEH10842.1	HET domain-containing protein	GG663363.1	na	7.444925	0.3003142	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	1041884	1043492	1609	-	EEH10863.1	RNA-binding protein	GG663363.1	na	3.712157	0.06781287	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	1072060	1072713	654	-	EEH10874.1	40S ribosomal protein S24	GG663363.1	na	3.962154	0.09067155	3776	2.3950182	histoplasmaG186ar
+Supercontig_2.1	1153466	1154629	1164	-	EEH10903.1	DUF1716 domain-containing protein	GG663363.1	na	2.558385	0.741	3776	2.3950182	histoplasmaG186ar
+Supercontig_2.1	1155018	1155532	515	+	EEH10904.1	hypothetical protein HCBG_00359	GG663363.1	na	2.558385	0.741	3776	2.3950182	histoplasmaG186ar
+Supercontig_2.1	1156214	1157202	989	-	EEH10905.1	short-chain dehydrogenase/reductase	GG663363.1	na	2.558385	0.741	3776	2.3950182	histoplasmaG186ar
+Supercontig_2.1	1252395	1255435	3041	-	EEH10936.1	transmembrane protein	GG663363.1	na	3.856282	33.92801	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	1331709	1333734	2026	-	EEH10965.1	epsin N-terminal homology-containing protein	GG663363.1	na	2.822236	0.01866958	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	1334279	1334743	465	-	EEH10966.1	purine cytosine permease Fcy2	GG663363.1	na	2.822236	0.01866958	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	1482029	1482581	553	-	EEH11014.1	bax inhibitor family protein	GG663363.1	na	3.603806	0.2544958	3776	2.3950182	histoplasmaG186ar
+Supercontig_2.1	1533556	1534902	1347	+	EEH11032.1	WD domain-containing protein	GG663363.1	na	2.558415	0.247	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	1595609	1597070	1462	-	EEH11050.1	translation release factor eRF1	GG663363.1	na	2.880813	0.01320492	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	1597555	1598896	1342	+	EEH11051.1	aldo-keto reductase	GG663363.1	na	2.880813	0.01320492	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	1872582	1874452	1871	+	EEH11148.1	NTF2 and RRM domain-containing protein	GG663363.1	na	2.995558	0.198246	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	2256549	2258366	1818	+	EEH11273.1	transcription factor tfiiia	GG663363.1	na	3.249079	0.2611122	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	2460166	2463943	3778	+	EEH11338.1	urease	GG663363.1	na	2.558407	2.964	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	2520591	2523368	2778	-	EEH11354.1	PSP1 domain-containing protein	GG663363.1	na	2.558407	0.9880002	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	2825624	2826495	872	+	EEH11459.1	hypothetical protein HCBG_00914	GG663363.1	na	6.732312	0.1409026	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	3000215	3000218	4	+	EEH11515.1	CobW/P47K family protein	GG663363.1	na	3.546552	0.0301575	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	3302259	3302345	87	+	EEH11621.1	hypothetical protein HCBG_01076	GG663363.1	na	47.43778	0.001130899	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	3343496	3343886	391	-	EEH11635.1	monothiol glutaredoxin-5	GG663363.1	na	4.364739	0.169417	3776	2.3950182	histoplasmaG186ar
+Supercontig_2.1	3521387	3522045	659	-	EEH11693.1	phosphoglycerate mutase	GG663363.1	na	5.901184	0.003116022	3777	2.3950182	histoplasmaG186ar
+Supercontig_2.1	3585466	3585588	123	-	EEH11712.1	malate dehydrogenase	GG663363.1	na	48.30527	0.001551306	3776	2.3950182	histoplasmaG186ar
+Supercontig_2.2	5586	6313	728	+	EEH09569.1	adenine phosphoribosyltransferase	GG663364.1	na	24.43087	0.001956611	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	32675	33137	463	+	EEH09580.1	hypothetical protein HCBG_01225	GG663364.1	na	1.901151	0.5265875	2928	1.2582528	histoplasmaG186ar
+Supercontig_2.2	66610	67817	1208	-	EEH09591.1	sphingosine hydroxylase	GG663364.1	na	2.210338	0.2611935	2928	1.2582528	histoplasmaG186ar
+Supercontig_2.2	211318	212150	833	+	EEH09641.1	SWR1-complex protein	GG663364.1	na	1.868705	0.2403161	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	265468	266385	918	-	EEH09657.1	octanoyltransferase	GG663364.1	na	1.91603	96.83573	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	389960	390814	855	-	EEH09701.1	CDP-diacylglycerol-inositol 3-phosphatidyltransferase PIS	GG663364.1	na	1.302032	0.7321077	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	484448	485236	789	-	EEH09733.1	flavoprotein oxygenase	GG663364.1	na	1.302142	73.21079	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	525646	527603	1958	+	EEH09746.1	DUF455 domain-containing protein	GG663364.1	na	1.631612	128.0844	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	572716	574460	1745	+	EEH09764.1	glycoside hydrolase	GG663364.1	na	4.547194	0.06960591	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	577785	579439	1655	-	EEH09766.1	UBX domain-containing protein	GG663364.1	na	5.803431	0.2227389	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	580295	580317	23	+	EEH09767.1	PAB-dependent poly(A)-specific ribonuclease subunit pan3	GG663364.1	na	5.803431	0.2227389	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	741387	741738	352	-	EEH09818.1	split zinc finger protein	GG663364.1	na	1.448446	0.02964222	2928	1.2582528	histoplasmaG186ar
+Supercontig_2.2	743840	744315	476	+	EEH09819.1	tRNA-dihydrouridine synthase 3-like protein	GG663364.1	na	1.448446	0.02964222	2928	1.2582528	histoplasmaG186ar
+Supercontig_2.2	747244	747733	490	+	EEH09820.1	receptor-associated protein	GG663364.1	na	2.212414	0.2985068	2928	1.2582528	histoplasmaG186ar
+Supercontig_2.2	748323	749615	1293	-	EEH09821.1	mitochondrial inheritance component mdm12	GG663364.1	na	2.212414	0.2985068	2928	1.2582528	histoplasmaG186ar
+Supercontig_2.2	808437	808745	309	+	EEH09841.1	translocation protein sec63	GG663364.1	na	4.467519	0.07165045	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	876101	876745	645	+	EEH09862.1	SDA1 domain-containing protein	GG663364.1	na	2.971009	0.2763841	2928	1.2582528	histoplasmaG186ar
+Supercontig_2.2	1300743	1302214	1472	-	EEH10010.1	polyketide synthase	GG663364.1	na	10.59379	0.0009077977	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	1315216	1315386	171	-	EEH10018.1	hypothetical protein HCBG_01663	GG663364.1	na	1.61469	0.07299554	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	1482314	1482899	586	-	EEH10077.1	serine/threonine phosphatase PP-X isozyme 2	GG663364.1	na	1.834758	0.3010299	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	1603984	1605314	1331	-	EEH10112.1	serine/threonine-protein kinase RIO2	GG663364.1	na	5.478741	0.1434182	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	1622137	1622884	748	-	EEH10118.1	pps1 dual specificty phosphatase	GG663364.1	na	2.949843	0.7851276	2928	1.2582528	histoplasmaG186ar
+Supercontig_2.2	1699935	1700790	856	+	EEH10147.1	hypothetical protein HCBG_01792	GG663364.1	na	2.956161	0.92128	2928	1.2582528	histoplasmaG186ar
+Supercontig_2.2	1774749	1775169	421	-	EEH10175.1	PQ loop repeat protein	GG663364.1	na	1.592945	0.01651466	2928	1.2582528	histoplasmaG186ar
+Supercontig_2.2	1816170	1819099	2930	-	EEH10188.1	pre-mRNA-splicing factor brr2	GG663364.1	na	1.825835	0.3981162	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	1912812	1915562	2751	-	EEH10219.1	TATA-binding protein associated factor Taf2	GG663364.1	na	1.592809	0.05557394	2928	1.2582528	histoplasmaG186ar
+Supercontig_2.2	1997463	1997740	278	+	EEH10249.1	DUF850 domain-containing protein	GG663364.1	na	2.980193	0.07462673	2928	1.2582528	histoplasmaG186ar
+Supercontig_2.2	2447655	2448272	618	+	EEH10381.1	serine/threonine-protein kinase hal4	GG663364.1	na	2.679476	1.948441	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	2512501	2513168	668	+	EEH10399.1	squalene epoxidase	GG663364.1	na	2.137958	103.8487	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	2588786	2589311	526	+	EEH10423.1	AP-2 complex subunit mu-1	GG663364.1	na	7.722949	0.1316469	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	2614741	2615668	928	-	EEH10431.1	serine/threonine-protein kinase Chk2	GG663364.1	na	1.58709	0.7647859	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	2678458	2680095	1638	-	EEH10449.1	origin recognition complex subunit	GG663364.1	na	1.859798	1.194349	2928	1.2582528	histoplasmaG186ar
+Supercontig_2.2	2718368	2720644	2277	+	EEH10465.1	GPI mannosyltransferase	GG663364.1	na	2.097249	0.1661693	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	2879238	2880864	1627	-	EEH10529.1	aspartokinase	GG663364.1	na	1.708897	0.0678129	2929	1.2582528	histoplasmaG186ar
+Supercontig_2.2	2884561	2885094	534	+	EEH10531.1	DUF1671 domain-containing protein	GG663364.1	na	4.611731	0.01228771	2928	1.2582528	histoplasmaG186ar
+Supercontig_2.3	81053	82161	1109	-	EEH08667.1	5-oxoprolinase	GG663365.1	na	17.08963	0.01251189	2803	1.9572062	histoplasmaG186ar
+Supercontig_2.3	133337	134322	986	-	EEH08685.1	protein transporter SEC13	GG663365.1	na	2.048779	0.292032	2804	1.9572062	histoplasmaG186ar
+Supercontig_2.3	153946	154252	307	-	EEH08692.1	clathrin-coated vesicle protein	GG663365.1	na	2.979736	0.1217776	2803	1.9572062	histoplasmaG186ar
+Supercontig_2.3	155104	156749	1646	+	EEH08693.1	branched-chain amino acid aminotransferase	GG663365.1	na	2.979736	0.1217776	2803	1.9572062	histoplasmaG186ar
+Supercontig_2.3	333835	334517	683	-	EEH08750.1	hypothetical protein HCBG_02287	GG663365.1	na	2.140322	0.0846857	2803	1.9572062	histoplasmaG186ar
+Supercontig_2.3	335195	336014	820	-	EEH08751.1	phosphoribulokinase/uridine kinase	GG663365.1	na	2.140322	0.0846857	2803	1.9572062	histoplasmaG186ar
+Supercontig_2.3	483119	484769	1651	-	EEH08801.1	nuclear envelope protein	GG663365.1	na	2.818617	0.2303201	2804	1.9572062	histoplasmaG186ar
+Supercontig_2.3	557430	557662	233	-	EEH08827.1	hypothetical protein HCBG_02364	GG663365.1	na	3.1694	0.1951007	2804	1.9572062	histoplasmaG186ar
+Supercontig_2.3	595813	596739	927	-	EEH08842.1	rho GTPase Rho1	GG663365.1	na	2.069873	0.2420893	2804	1.9572062	histoplasmaG186ar
+Supercontig_2.3	784751	784815	65	+	EEH08903.1	mitochondrial ribosomal protein subunit S2	GG663365.1	na	2.834403	0.3948344	2803	1.9572062	histoplasmaG186ar
+Supercontig_2.3	1115573	1118376	2804	-	EEH08992.1	RNA binding domain-containing protein	GG663365.1	na	2.268645	0.174129	2803	1.9572062	histoplasmaG186ar
+Supercontig_2.3	1404342	1404409	68	-	EEH09092.1	metal homeostatis protein bsd2	GG663365.1	na	2.54837	0.2617091	2804	1.9572062	histoplasmaG186ar
+Supercontig_2.3	1405945	1407146	1202	-	EEH09094.1	succinyl-CoA:3-ketoacid-coenzyme A transferase	GG663365.1	na	2.54837	0.2617091	2804	1.9572062	histoplasmaG186ar
+Supercontig_2.3	1553139	1554206	1068	-	EEH09138.1	C-3 sterol dehydrogenase/C-4 decarboxylase	GG663365.1	na	2.42464	0.2102356	2804	1.9572062	histoplasmaG186ar
+Supercontig_2.3	1580657	1580968	312	+	EEH09149.1	DNA repair and recombination protein RAD54	GG663365.1	na	2.666091	0.4295331	2804	1.9572062	histoplasmaG186ar
+Supercontig_2.3	1617475	1618878	1404	+	EEH09161.1	mitogen-activated protein kinase	GG663365.1	na	2.26863	0.232172	2804	1.9572062	histoplasmaG186ar
+Supercontig_2.3	1681896	1683017	1122	+	EEH09186.1	EH domain binding protein epsin 2	GG663365.1	na	2.24816	0.07205338	2803	1.9572062	histoplasmaG186ar
+Supercontig_2.3	1760708	1762452	1745	+	EEH09211.1	adenosine deaminase	GG663365.1	na	2.268645	2.089548	2803	1.9572062	histoplasmaG186ar
+Supercontig_2.3	1822075	1822682	608	+	EEH09230.1	RING-13 finger domain-containing protein	GG663365.1	na	2.626479	296.4	2804	1.9572062	histoplasmaG186ar
+Supercontig_2.3	1850995	1852017	1023	+	EEH09240.1	uracil DNA glycosylase superfamily protein	GG663365.1	na	5.565876	0.183027	2804	1.9572062	histoplasmaG186ar
+Supercontig_2.3	1880503	1880951	449	+	EEH09247.1	transmembrane 9 superfamily member 4	GG663365.1	na	3.546045	0.01003294	2804	1.9572062	histoplasmaG186ar
+Supercontig_2.3	1899020	1900576	1557	+	EEH09254.1	RNA helicase family protein	GG663365.1	na	12.53464	0.04374656	2804	1.9572062	histoplasmaG186ar
+Supercontig_2.3	1994947	1995896	950	+	EEH09282.1	glucosidase I	GG663365.1	na	2.058534	0.007249009	2803	1.9572062	histoplasmaG186ar
+Supercontig_2.3	2125177	2126340	1164	-	EEH09329.1	3\'-5\' exonuclease	GG663365.1	na	4.714123	0.1481601	2803	1.9572062	histoplasmaG186ar
+Supercontig_2.3	2486523	2487945	1423	-	EEH09459.1	translin	GG663365.1	na	2.227681	0.1625788	2804	1.9572062	histoplasmaG186ar
+Supercontig_2.3	2517362	2517480	119	+	EEH09470.1	UV-damage endonuclease	GG663365.1	na	2.910338	0.3535502	2803	1.9572062	histoplasmaG186ar
+Supercontig_2.3	2519261	2520165	905	+	EEH09471.1	actin patch protein	GG663365.1	na	2.910338	0.3535502	2803	1.9572062	histoplasmaG186ar
+Supercontig_2.4	110612	111243	632	-	EEH07844.1	anucleate primary sterigmata protein B	GG663366.1	na	2.627712	296.4	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	167986	168948	963	+	EEH07864.1	exosome complex exonuclease RRP4	GG663366.1	na	2.053366	1.194349	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	189679	191300	1622	-	EEH07871.1	IFRD domain-containing protein	GG663366.1	na	1.746934	0.4235423	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	223924	224730	807	+	EEH07882.1	glycine cleavage system H protein	GG663366.1	na	57.59943	0.001775498	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	249049	249152	104	-	EEH07893.1	guanosine-diphosphatase	GG663366.1	na	4.013835	0.4397976	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	251193	251751	559	+	EEH07895.1	elongation factor Tu	GG663366.1	na	4.013835	0.4397976	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	279478	280305	828	+	EEH07908.1	mitochondrial hypoxia responsive domain-containing protein	GG663366.1	na	6.122329	0.174129	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	365238	365589	352	-	EEH07937.1	puf family RNA-binding protein	GG663366.1	na	1.193554	0.3159525	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	367004	367940	937	-	EEH07938.1	hypothetical protein HCBG_03227	GG663366.1	na	1.193554	0.3159525	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	408471	410781	2311	+	EEH07955.1	pre-mRNA-processing protein prp40	GG663366.1	na	2.27345	0.5265874	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	443585	443598	14	+	EEH07968.1	beta-lactamase	GG663366.1	na	2.404535	0.08963497	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	490687	491177	491	+	EEH07983.1	4-coumarate:coenzyme A ligase	GG663366.1	na	8.084019	0.01698521	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	497670	499762	2093	-	EEH07986.1	zinc-responsiveness transcriptional activator	GG663366.1	na	2.28116	0.4910272	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	586808	589510	2703	-	EEH08017.1	histone transcription regulator slm9	GG663366.1	na	2.275859	0.6965163	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	623350	623959	610	-	EEH08026.1	hypothetical protein HCBG_03315	GG663366.1	na	1.213059	0.08566879	2703	1.1496284	histoplasmaG186ar
+Supercontig_2.4	645354	646253	900	+	EEH08037.1	GLCD gamma	GG663366.1	na	1.985223	0.1118304	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	662832	665168	2337	-	EEH08043.1	binuclear zinc transcription factor	GG663366.1	na	1.230842	1.104454	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	674388	675976	1589	+	EEH08047.1	G2/mitotic-specific cyclin-B	GG663366.1	na	2.657823	0.2420242	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	697736	699553	1818	-	EEH08054.1	chromatin regulatory protein sir2	GG663366.1	na	2.311048	1.194349	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	741509	743528	2020	+	EEH08073.1	NMDA receptor-regulated gene 1 protein	GG663366.1	na	1.274013	2.089548	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	854343	856945	2603	-	EEH08107.1	intermembrane space AAA protease IAP-1	GG663366.1	na	3.150237	0.6442996	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	862419	864332	1914	-	EEH08110.1	3-ketosteroid reductase	GG663366.1	na	6.8766	0.6006287	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	879446	880674	1229	+	EEH08115.1	sucrase/ferredoxin domain-containing protein	GG663366.1	na	2.627712	1.482	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	881149	881333	185	+	EEH08116.1	D-isomer specific 2-hydroxyacid dehydrogenase	GG663366.1	na	2.627712	1.482	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	894844	895940	1097	+	EEH08122.1	F-box and WD domain-containing protein	GG663366.1	na	1.370625	0.3925638	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1013735	1014711	977	-	EEH08158.1	3-ketoacyl-coA thiolase peroxisomal A	GG663366.1	na	1.767283	0.07495593	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1112673	1113712	1040	-	EEH08175.1	HMG-box transcription factor	GG663366.1	na	1.702209	0.06279766	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1138030	1140732	2703	-	EEH08179.1	fatty acid oxygenase	GG663366.1	na	2.280147	0.4910271	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1162349	1162927	579	-	EEH08188.1	histone acetylase complex subunit	GG663366.1	na	1.512914	1.050886	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1173157	1174277	1121	-	EEH08190.1	GTPase activating protein GYP5	GG663366.1	na	1.999498	0.08840947	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1175563	1175859	297	-	EEH08191.1	RAB-protein geranylgeranyltransferase	GG663366.1	na	1.999498	0.08840947	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1202880	1203077	198	-	EEH08198.1	HMG box protein	GG663366.1	na	2.281064	0.3682702	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1541880	1543341	1462	-	EEH08267.1	GabA permease	GG663366.1	na	10.21892	0.008763122	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1726356	1727082	727	+	EEH08324.1	histone-lysine n-methyltransferase	GG663366.1	na	2.52629	0.1672976	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1735188	1735897	710	+	EEH08327.1	mago nashi domain-containing protein	GG663366.1	na	2.335883	208.9548	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1789230	1790347	1118	-	EEH08344.1	hypothetical protein HCBG_03633	GG663366.1	na	1.472719	0.2967902	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1791224	1791932	709	+	EEH08345.1	endopolyphosphatase	GG663366.1	na	1.472719	0.2967902	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1875696	1875952	257	+	EEH08375.1	basic proline-rich protein	GG663366.1	na	2.335824	0.522387	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1876685	1877713	1029	-	EEH08376.1	hypothetical protein HCBG_03665	GG663366.1	na	2.335824	0.522387	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1898782	1900016	1235	+	EEH08386.1	inosine-uridine preferring nucleoside hydrolase	GG663366.1	na	5.208612	0.002829509	2703	1.1496284	histoplasmaG186ar
+Supercontig_2.4	1934230	1935141	912	-	EEH08402.1	oleate delta-12 desaturase	GG663366.1	na	2.334968	2.089548	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	2097266	2097866	601	-	EEH08452.1	ran GTPase activating protein	GG663366.1	na	1.846698	0.1601055	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	2130976	2132393	1418	-	EEH08465.1	glutaminase	GG663366.1	na	4.976607	0.2164153	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	2258371	2259390	1020	-	EEH08514.1	hsp70-like protein	GG663366.1	na	1.299874	0.3408854	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	2335947	2337614	1668	+	EEH08541.1	class II aldolase/adducin domain-containing protein	GG663366.1	na	8.903258	0.06127631	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	2414150	2414563	414	+	EEH08566.1	hypothetical protein HCBG_03855	GG663366.1	na	1.392055	0.1529203	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	2415454	2416110	657	-	EEH08567.1	NAD-dependent 15-hydroxyprostaglandin dehydrogenase	GG663366.1	na	1.392055	0.1529203	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	2508800	2508990	191	-	EEH08600.1	histone H4, partial	GG663366.1	na	4.05233	0.07464678	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	2509102	2509591	490	-	EEH08599.1	histone H4	GG663366.1	na	4.05233	0.07464678	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	2602553	2604510	1958	+	EEH08628.1	type I ribosomal protein arginine N-methytransferase Rmt3	GG663366.1	na	1.631769	0.6868018	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	2626872	2628078	1207	+	EEH08636.1	hypothetical protein HCBG_03925	GG663366.1	na	32.66473	0.00147165	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	2675716	2677841	2126	-	EEH08647.1	UDP-galactopyranose mutase	GG663366.1	na	1.293841	0.01734724	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.4	2692217	2694424	2208	+	EEH08652.1	copper-sulfate regulated protein	GG663366.1	na	2.218897	0.08146062	2702	1.1496284	histoplasmaG186ar
+Supercontig_2.5	21239	21587	349	+	EEH07065.1	QDE2 protein	GG663367.1	na	9.985976	0.002956667	2225	1.48003	histoplasmaG186ar
+Supercontig_2.5	35914	37155	1242	-	EEH07070.1	phytase	GG663367.1	na	3.082561	0.06319489	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	228438	228627	190	-	EEH07131.1	gamma-glutamyltranspeptidase	GG663367.1	na	2.395362	0.5561149	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	229515	230021	507	-	EEH07132.1	mitochondrial import inner membrane translocase subunit tim-14	GG663367.1	na	2.395362	0.5561149	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	230354	230662	309	+	EEH07133.1	60S ribosomal protein L24B	GG663367.1	na	2.395362	0.5561149	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	490895	491706	812	+	EEH07232.1	RING-10 finger domain-containing protein	GG663367.1	na	2.457427	0.3704003	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	600233	602105	1873	+	EEH07275.1	methylmalonate-semialdehyde dehydrogenase	GG663367.1	na	2.582994	0.1502961	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	615451	616550	1100	-	EEH07281.1	ubiquitin C-terminal hydrolase	GG663367.1	na	1.529073	0.9029642	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	675051	675504	454	+	EEH07301.1	high affinity nicotinic acid plasma membrane permease	GG663367.1	na	4.926835	0.0655549	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	786715	787718	1004	-	EEH07338.1	C-x8-C-x5-C-x3-H zinc finger protein	GG663367.1	na	4.614121	0.05495454	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	788909	788939	31	-	EEH07339.1	hypothetical protein HCBG_04218	GG663367.1	na	4.614121	0.05495454	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	906823	909047	2225	-	EEH07378.1	meiotically up-regulated gene 71 protein	GG663367.1	na	2.114716	1.038486	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1038051	1038892	842	-	EEH07421.1	beta-hydroxysteroid dehydrogenase	GG663367.1	na	1.825377	0.04871103	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1039197	1039747	551	+	EEH07422.1	ergosterol biosynthetic protein	GG663367.1	na	1.825377	0.04871103	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1040102	1040275	174	-	EEH07423.1	galactose-1-phosphate uridylyltransferase	GG663367.1	na	1.825377	0.04871103	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1107204	1108791	1588	+	EEH07446.1	delta-9 fatty acid desaturase	GG663367.1	na	1.940877	0.2150427	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1222661	1223613	953	+	EEH07481.1	Pi-transporter A-1	GG663367.1	na	2.891871	0.1790897	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1227615	1229333	1719	-	EEH07483.1	ABC multidrug transporter	GG663367.1	na	2.644067	0.009384285	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1240264	1240456	193	+	EEH07485.1	hypothetical protein HCBG_04365	GG663367.1	na	1.778957	0.1373603	2225	1.48003	histoplasmaG186ar
+Supercontig_2.5	1281358	1281954	597	+	EEH07502.1	mitochondrial import inner membrane translocase subunit tim9	GG663367.1	na	1.812162	0.1136324	2225	1.48003	histoplasmaG186ar
+Supercontig_2.5	1286481	1287163	683	+	EEH07504.1	glutathione-dependent formaldehyde dehydrogenase	GG663367.1	na	2.403997	1.194349	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1577922	1578535	614	-	EEH07610.1	acetyl coenzyme A transporter	GG663367.1	na	2.734159	0.05765404	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1583626	1585014	1389	+	EEH07611.1	urease accessory protein UreD	GG663367.1	na	9.233405	0.003764496	2225	1.48003	histoplasmaG186ar
+Supercontig_2.5	1670575	1671952	1378	+	EEH07644.1	thiamine-phosphate pyrophosphorylase	GG663367.1	na	1.987983	0.9683574	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1692475	1693630	1156	-	EEH07653.1	Cwf15/Cwc15 cell cycle control family protein	GG663367.1	na	1.774696	0.741	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1693887	1694194	308	+	EEH07654.1	exosome complex exonuclease RRP45	GG663367.1	na	1.774696	0.741	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1728970	1729781	812	+	EEH07662.1	hypothetical protein HCBG_04541	GG663367.1	na	11.53054	0.03815565	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1729782	1731390	1609	+	EEH07662.1	hypothetical protein HCBG_04541	GG663367.1	na	3.368311	0.6826687	2225	1.48003	histoplasmaG186ar
+Supercontig_2.5	1756472	1757036	565	-	EEH07673.1	isochorismatase hydrolase	GG663367.1	na	1.525932	0.9029642	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1757766	1758696	931	+	EEH07674.1	nuclear distribution protein NudE	GG663367.1	na	1.525932	0.9029642	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1763145	1765369	2225	+	EEH07675.1	acetyl-CoA carboxylase	GG663367.1	na	4.627534	0.1462291	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1852816	1854337	1522	-	EEH07705.1	polyadenylation factor subunit 2	GG663367.1	na	1.895374	0.2005208	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	1876580	1877275	696	-	EEH07715.1	U3 small nucleolar ribonucleoprotein IMP3	GG663367.1	na	3.606325	0.06430535	2225	1.48003	histoplasmaG186ar
+Supercontig_2.5	1933346	1933962	617	-	EEH07737.1	hypothetical protein HCBG_04616	GG663367.1	na	2.601353	0.176597	2224	1.48003	histoplasmaG186ar
+Supercontig_2.5	2061189	2061566	378	-	EEH07766.1	AMP dependent synthetase and ligase	GG663367.1	na	2.627175	1.482	2224	1.48003	histoplasmaG186ar
+Supercontig_2.6	1038628	1038927	300	+	EEH06845.1	hypothetical protein HCBG_05065	GG663368.1	na	68.66897	0.001290338	1765	9.78660600000002	histoplasmaG186ar
+Supercontig_2.6	1391468	1391559	92	+	EEH06962.1	FAD-binding domain-containing protein	GG663368.1	na	117.737	0.0001033318	1766	9.78660600000002	histoplasmaG186ar
+Supercontig_2.6	1391558	1393199	1642	+	EEH06962.1	FAD-binding domain-containing protein	GG663368.1	na	106.8888	0.0001054454	1765	9.78660600000002	histoplasmaG186ar
+Supercontig_2.6	1404315	1405655	1341	-	EEH06969.1	mitochondrial chaperone BCS1	GG663368.1	na	58.52495	0.0001721878	1765	9.78660600000002	histoplasmaG186ar
+Supercontig_2.6	1409678	1410183	506	-	EEH06971.1	hypothetical protein HCBG_05191	GG663368.1	na	56.01379	0.0002032202	1766	9.78660600000002	histoplasmaG186ar
+Supercontig_2.7	3135	3421	287	-	EEH05968.1	imidazole glycerol phosphate synthase hisHF	GG663369.1	na	14.17915	0.004301338	1499	2.0763018	histoplasmaG186ar
+Supercontig_2.7	15408	16894	1487	+	EEH05974.1	rft domain-containing protein	GG663369.1	na	2.155126	0.696516	1498	2.0763018	histoplasmaG186ar
+Supercontig_2.7	55869	57368	1500	+	EEH05987.1	exportin KapK	GG663369.1	na	2.155153	208.9548	1499	2.0763018	histoplasmaG186ar
+Supercontig_2.7	229698	231196	1499	+	EEH06049.1	eukaryotic ribosome biogenesis protein	GG663369.1	na	2.076597	0.1096088	1498	2.0763018	histoplasmaG186ar
+Supercontig_2.7	273156	273380	225	-	EEH06068.1	50S ribosomal protein L17	GG663369.1	na	2.155153	208.9548	1499	2.0763018	histoplasmaG186ar
+Supercontig_2.7	319610	321109	1500	-	EEH06084.1	5-aminolevulinic acid synthase HemA	GG663369.1	na	2.129568	0.1899589	1499	2.0763018	histoplasmaG186ar
+Supercontig_2.7	564974	565368	395	+	EEH06160.1	DUF89 domain-containing protein	GG663369.1	na	2.496965	0.18525	1498	2.0763018	histoplasmaG186ar
+Supercontig_2.7	710461	710727	267	-	EEH06211.1	hypothetical protein HCBG_05527	GG663369.1	na	4.04646	0.001395856	1499	2.0763018	histoplasmaG186ar
+Supercontig_2.7	714457	715070	614	-	EEH06212.1	hypothetical protein HCBG_05528	GG663369.1	na	2.407149	0.02033634	1499	2.0763018	histoplasmaG186ar
+Supercontig_2.7	808367	809630	1264	-	EEH06248.1	adrenoleukodystrophy protein	GG663369.1	na	2.755289	1.482	1499	2.0763018	histoplasmaG186ar
+Supercontig_2.7	1021758	1022420	663	-	EEH06317.1	glucokinase glkA	GG663369.1	na	3.478552	0.08118501	1498	2.0763018	histoplasmaG186ar
+Supercontig_2.7	1026663	1026917	255	-	EEH06319.1	C2HC5 zinc finger domain-containing protein	GG663369.1	na	4.537524	0.01784381	1499	2.0763018	histoplasmaG186ar
+Supercontig_2.7	1026916	1028219	1304	-	EEH06319.1	C2HC5 zinc finger domain-containing protein	GG663369.1	na	2.473519	0.2823616	1498	2.0763018	histoplasmaG186ar
+Supercontig_2.7	1053201	1053889	689	+	EEH06328.1	intramembrane protease	GG663369.1	na	3.271982	0.04162771	1498	2.0763018	histoplasmaG186ar
+Supercontig_2.7	1078923	1079364	442	+	EEH06338.1	MADS box transcription factor Mcm1	GG663369.1	na	36.99369	0.01155694	1498	2.0763018	histoplasmaG186ar
+Supercontig_2.7	1102134	1103342	1209	+	EEH06345.1	DEAD-box type RNA helicase	GG663369.1	na	2.436055	0.06468304	1499	2.0763018	histoplasmaG186ar
+Supercontig_2.7	1104840	1106339	1500	+	EEH06345.1	DEAD-box type RNA helicase	GG663369.1	na	2.180022	0.04801203	1499	2.0763018	histoplasmaG186ar
+Supercontig_2.7	1117558	1118326	769	-	EEH06348.1	dihydroorotase	GG663369.1	na	2.085455	0.09084992	1498	2.0763018	histoplasmaG186ar
+Supercontig_2.7	1251381	1251695	315	+	EEH06401.1	riboflavin aldehyde-forming enzyme	GG663369.1	na	5.983098	0.00914957	1498	2.0763018	histoplasmaG186ar
+Supercontig_2.7	1253195	1254675	1481	-	EEH06402.1	molybdenum cofactor biosynthetic protein	GG663369.1	na	2.122096	0.478429	1499	2.0763018	histoplasmaG186ar
+Supercontig_2.7	1283165	1284663	1499	-	EEH06411.1	cytochrome c1	GG663369.1	na	2.079297	0.3682704	1498	2.0763018	histoplasmaG186ar
+Supercontig_2.8	64279	64446	168	-	EEH05546.1	histone deacetylase hda1	GG663370.1	na	3.118993	0.4221549	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	76213	76376	164	-	EEH05548.1	inorganic phosphate transporter PHO88	GG663370.1	na	2.347552	0.1540154	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	382540	383866	1327	+	EEH05658.1	hypothetical protein HCBG_05922	GG663370.1	na	1.93972	0.5971744	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	395148	395793	646	-	EEH05662.1	deuterolysin metalloprotease	GG663370.1	na	4.132158	0.1988461	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	555268	556165	898	-	EEH05715.1	ATP-dependent helicase RIS1	GG663370.1	na	1.165583	0.19831	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	580023	580992	970	+	EEH05725.1	3-methyl-2-oxobutanoate hydroxymethyltransferase	GG663370.1	na	1.193911	55.34959	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	590626	591479	854	-	EEH05731.1	hypothetical protein HCBG_05995	GG663370.1	na	12.8494	0.002847346	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	652919	653458	540	-	EEH05755.1	pheromone-regulated membrane protein	GG663370.1	na	2.993078	0.02265263	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	690030	690089	60	-	EEH05765.1	calpain-9	GG663370.1	na	1.574915	0.6404221	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	716482	716537	56	-	EEH05776.1	transfer RNA-Trp synthetase	GG663370.1	na	3.890942	0.3388339	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	717863	718494	632	-	EEH05776.1	transfer RNA-Trp synthetase	GG663370.1	na	1.846934	0.2002095	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	749672	750690	1019	-	EEH05788.1	DNA lyase	GG663370.1	na	1.672052	90.29642	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	811966	813292	1327	+	EEH05806.1	drug resistance transporter	GG663370.1	na	4.423796	0.002366302	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	813291	813477	187	+	EEH05806.1	drug resistance transporter	GG663370.1	na	1.697296	0.006563242	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	819140	819816	677	-	EEH05810.1	hypothetical protein HCBG_06074	GG663370.1	na	7.19172	0.3712315	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	831388	831846	459	-	EEH05814.1	sphingolipid long chain base-responsive protein PIL1	GG663370.1	na	1.77978	0.300395	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	874949	875584	636	+	EEH05830.1	cytochrome P450 alkane hydroxylase	GG663370.1	na	1.241653	0.1900682	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	886732	887512	781	+	EEH05835.1	tyrosyl-tRNA synthetase	GG663370.1	na	2.157162	0.09933295	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	889067	890163	1097	-	EEH05836.1	DNA-directed RNA polymerase II polypeptide	GG663370.1	na	1.532832	0.2830826	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	951132	951429	298	+	EEH05857.1	NAD-binding Rossmann fold oxidoreductase	GG663370.1	na	5.397779	0.02671138	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	952021	952458	438	-	EEH05858.1	bifunctional tryptophan synthase TRPB	GG663370.1	na	5.397779	0.02671138	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	1014238	1014751	514	-	EEH05879.1	phosphatidylinositol 4-kinase	GG663370.1	na	6.549442	0.1657052	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	1039933	1040009	77	-	EEH05888.1	carboxylase:pyruvate/acetyl-CoA/propionyl-CoA	GG663370.1	na	1.421292	0.7321078	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	1040797	1041259	463	+	EEH05889.1	propionyl-CoA carboxylase	GG663370.1	na	1.421292	0.7321078	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	1057106	1057162	57	+	EEH05896.1	GTP binding protein Bms1	GG663370.1	na	1.053896	1.948441	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	1180424	1180880	457	-	EEH05927.1	hypothetical protein HCBG_06191	GG663370.1	na	3.487554	0.4871101	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	1181524	1181750	227	+	EEH05928.1	signal recognition particle 68	GG663370.1	na	3.487554	0.4871101	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	1189701	1190610	910	+	EEH05930.1	rhodanese domain-containing protein	GG663370.1	na	5.051468	0.1904181	1325	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	1232114	1232335	222	-	EEH05943.1	50S ribosomal protein YmL27	GG663370.1	na	1.903593	0.4977399	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	1232729	1233440	712	+	EEH05944.1	small nucleolar ribonucleoprotein complex subunit Utp14	GG663370.1	na	1.903593	0.4977399	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.8	1234765	1235979	1215	+	EEH05944.1	small nucleolar ribonucleoprotein complex subunit Utp14	GG663370.1	na	3.333572	0.4841788	1326	0.797739560000003	histoplasmaG186ar
+Supercontig_2.9	14125	14894	770	+	EEH05114.1	DUF821 domain-containing protein	GG663371.1	na	13.89447	0.001177442	1246	1.5627112	histoplasmaG186ar
+Supercontig_2.9	14894	15598	705	+	EEH05114.1	DUF821 domain-containing protein	GG663371.1	na	3.474532	0.001434318	1246	1.5627112	histoplasmaG186ar
+Supercontig_2.9	268660	269118	459	-	EEH05199.1	SIN component scaffold protein Cdc11	GG663371.1	na	2.09514	0.07847225	1246	1.5627112	histoplasmaG186ar
+Supercontig_2.9	305258	306505	1248	+	EEH05209.1	a-pheromone processing metallopeptidase Ste23	GG663371.1	na	1.818326	1.194349	1247	1.5627112	histoplasmaG186ar
+Supercontig_2.9	310242	310654	413	+	EEH05210.1	cleavage and polyadenylation specific factor 5	GG663371.1	na	2.252117	0.6965159	1246	1.5627112	histoplasmaG186ar
+Supercontig_2.9	665736	666654	919	+	EEH05326.1	60S ribosomal protein	GG663371.1	na	2.761113	0.1720394	1246	1.5627112	histoplasmaG186ar
+Supercontig_2.9	697809	698572	764	+	EEH05336.1	hypothetical protein HCBG_06455	GG663371.1	na	2.351035	0.1981198	1246	1.5627112	histoplasmaG186ar
+Supercontig_2.9	1047342	1047990	649	+	EEH05464.1	RNA-binding protein NOB1	GG663371.1	na	3.948072	0.02192607	1246	1.5627112	histoplasmaG186ar
+Supercontig_2.9	1067077	1067929	853	+	EEH05472.1	oxidosqualene:lanosterol cyclase	GG663371.1	na	3.933999	16.86191	1246	1.5627112	histoplasmaG186ar
+Supercontig_2.9	1177594	1178411	818	+	EEH05506.1	RNA-binding protein Snd1	GG663371.1	na	1.63572	0.1128706	1246	1.5627112	histoplasmaG186ar
+Supercontig_2.9	1204739	1205010	272	+	EEH05515.1	ATP-dependent bile acid permease	GG663371.1	na	3.905383	0.3734791	1246	1.5627112	histoplasmaG186ar
+Supercontig_2.10	11651	11802	152	+	EEH04699.1	sybindin family protein	GG663372.1	na	1.757587	0.03960077	1219	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	84810	85975	1166	+	EEH04724.1	T-complex protein 1 subunit delta	GG663372.1	na	1.467219	0.2435551	1218	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	151734	151772	39	-	EEH04749.1	proteoglycan	GG663372.1	na	0.9646205	0.2121894	1219	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	152990	153792	803	-	EEH04749.1	proteoglycan	GG663372.1	na	6.1296	0.2388698	1219	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	234403	234626	224	+	EEH04777.1	streptomycin biosynthesis protein StrI	GG663372.1	na	1.023179	1.006127	1219	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	281300	282144	845	-	EEH04794.1	fructose 1,6-biphosphate aldolase	GG663372.1	na	6.305755	0.03761915	1218	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	331678	332100	423	+	EEH04814.1	smad nuclear interacting protein	GG663372.1	na	3.093196	0.04649553	1218	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	389856	390585	730	+	EEH04833.1	eukaryotic translation initiation factor 3 subunit 6	GG663372.1	na	1.54828	2.089548	1218	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	440712	441761	1050	+	EEH04852.1	ATP-dependent rRNA helicase RRP3	GG663372.1	na	1.49563	0.05893033	1219	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	449718	450289	572	+	EEH04856.1	trimethyllysine dioxygenase	GG663372.1	na	1.509117	0.2054885	1218	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	521908	522177	270	-	EEH04879.1	transcription initiation factor TFIID-2	GG663372.1	na	6.154349	0.0125861	1218	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	561168	562387	1220	-	EEH04892.1	tubulin-tyrosine ligase	GG663372.1	na	2.111621	0.789881	1219	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	632086	632893	808	-	EEH04914.1	dolichol-phosphate mannose synthase	GG663372.1	na	1.53159	0.4179097	1218	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	757337	758556	1220	-	EEH04959.1	peptidase family M28 family	GG663372.1	na	0.9506497	0.06569374	1219	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	808136	808512	377	+	EEH04977.1	GARP complex component	GG663372.1	na	1.958474	0.1044493	1219	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	942540	943759	1220	-	EEH05023.1	PXA domain-containing protein	GG663372.1	na	6.626494	0.09972314	1219	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	944977	945780	804	+	EEH05024.1	uridine nucleosidase	GG663372.1	na	1.957581	0.240316	1219	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	969648	970563	916	+	EEH05034.1	hypothetical protein HCBG_06985	GG663372.1	na	1.006412	0.4481748	1218	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	982109	982749	641	+	EEH05038.1	ribosome biogenesis protein Kri1	GG663372.1	na	2.073588	0.2632937	1219	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	1031486	1032680	1195	+	EEH05051.1	ketoreductase	GG663372.1	na	2.106296	0.1683105	1218	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	1051975	1052199	225	+	EEH05057.1	hypothetical protein HCBG_07008	GG663372.1	na	1.519164	0.696516	1218	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	1097817	1098501	685	+	EEH05069.1	DNA mismatch repair protein mutL	GG663372.1	na	1.978593	96.83575	1219	0.934201040000001	histoplasmaG186ar
+Supercontig_2.10	1187446	1188607	1162	+	EEH05104.1	alpha-galactosidase	GG663372.1	na	2.470945	0.100525	1218	0.934201040000001	histoplasmaG186ar
+Supercontig_2.11	787328	788281	954	+	EEH04634.1	phospholipase	GG663373.1	na	505.8929	3.667125e-05	1055	70.4308960000001	histoplasmaG186ar
+Supercontig_2.11	788281	789336	1056	+	EEH04634.1	phospholipase	GG663373.1	na	561.9133	3.649796e-05	1055	70.4308960000001	histoplasmaG186ar
+Supercontig_2.11	789336	790391	1056	+	EEH04634.1	phospholipase	GG663373.1	na	589.5812	3.64784e-05	1055	70.4308960000001	histoplasmaG186ar
+Supercontig_2.11	790392	790582	191	+	EEH04634.1	phospholipase	GG663373.1	na	597.2689	3.681712e-05	1056	70.4308960000001	histoplasmaG186ar
+Supercontig_2.11	791261	791448	188	+	EEH04635.1	hypothetical protein HCBG_07276	GG663373.1	na	597.2689	3.681712e-05	1056	70.4308960000001	histoplasmaG186ar
+Supercontig_2.11	791447	791644	198	+	EEH04635.1	hypothetical protein HCBG_07276	GG663373.1	na	586.6397	3.694834e-05	1055	70.4308960000001	histoplasmaG186ar
+Supercontig_2.12	10120	11085	966	-	EEH04113.1	ChAPs family protein	GG663374.1	na	1.193109	0.09852648	965	1.1668086	histoplasmaG186ar
+Supercontig_2.12	266724	266827	104	-	EEH04193.1	hypothetical protein HCBG_07418	GG663374.1	na	2.799372	0.2595913	965	1.1668086	histoplasmaG186ar
+Supercontig_2.12	297710	298676	967	-	EEH04202.1	50S ribosomal protein L30	GG663374.1	na	1.325725	0.09870861	966	1.1668086	histoplasmaG186ar
+Supercontig_2.12	313403	314116	714	+	EEH04209.1	pinin/SDK/memA domain-containing protein	GG663374.1	na	2.141401	0.2985068	965	1.1668086	histoplasmaG186ar
+Supercontig_2.12	329780	330342	563	+	EEH04214.1	scytalone dehydratase	GG663374.1	na	6.285469	0.002202925	965	1.1668086	histoplasmaG186ar
+Supercontig_2.12	350788	351753	966	+	EEH04221.1	nucleus protein	GG663374.1	na	4.136689	22.30321	965	1.1668086	histoplasmaG186ar
+Supercontig_2.12	383600	384565	966	+	EEH04232.1	postreplication repair E3 ubiquitin-protein ligase rad18	GG663374.1	na	1.550492	0.8824292	965	1.1668086	histoplasmaG186ar
+Supercontig_2.12	446286	446329	44	-	EEH04253.1	hypothetical protein HCBG_07478	GG663374.1	na	7.993945	0.1635263	965	1.1668086	histoplasmaG186ar
+Supercontig_2.12	800508	801473	966	-	EEH04373.1	RhoGAP and Fes/CIP4 domain-containing protein	GG663374.1	na	3.864645	0.4735889	965	1.1668086	histoplasmaG186ar
+Supercontig_2.12	832498	833259	762	-	EEH04387.1	hypothetical protein HCBG_07612	GG663374.1	na	3.010356	0.06331962	965	1.1668086	histoplasmaG186ar
+Supercontig_2.12	930671	930793	123	+	EEH04419.1	TBC1 domain family member 14	GG663374.1	na	1.940419	0.06914384	966	1.1668086	histoplasmaG186ar
+Supercontig_2.14	152478	152999	522	-	EEH03575.1	40S ribosomal protein S27	GG663376.1	na	3.831074	0.1613929	915	2.037721	histoplasmaG186ar
+Supercontig_2.14	310428	311343	916	-	EEH03628.1	iron transport multicopper oxidase FET3	GG663376.1	na	2.078129	1.038487	915	2.037721	histoplasmaG186ar
+Supercontig_2.14	399316	400047	732	-	EEH03656.1	hypothetical protein HCBG_07782	GG663376.1	na	3.861209	0.2806623	915	2.037721	histoplasmaG186ar
+Supercontig_2.14	703933	704848	916	+	EEH03772.1	Delta(24(24(1)))-sterol reductase	GG663376.1	na	3.584814	0.1753726	915	2.037721	histoplasmaG186ar
+Supercontig_2.14	714914	715696	783	-	EEH03776.1	CAMK family protein kinase	GG663376.1	na	12.55469	0.02585468	915	2.037721	histoplasmaG186ar
+Supercontig_2.15	453180	453731	552	+	EEH03444.1	hypothetical protein HCBG_08384	GG663377.1	na	2.941213	0.3163684	687	2.2372912	histoplasmaG186ar
+Supercontig_2.15	496266	496286	21	-	EEH03459.1	catalase B	GG663377.1	na	4.483603	0.09440786	686	2.2372912	histoplasmaG186ar
+Supercontig_2.15	561006	561493	488	-	EEH03484.1	NmrA-like family domain-containing protein	GG663377.1	na	4.300772	0.2473176	686	2.2372912	histoplasmaG186ar
+Supercontig_2.15	576594	577280	687	-	EEH03490.1	6-phosphofructokinase beta subunit	GG663377.1	na	2.589929	63.65679	686	2.2372912	histoplasmaG186ar
+Supercontig_2.15	608855	609542	688	+	EEH03499.1	NACHT and WD domain-containing protein	GG663377.1	na	5.660738	0.01114152	687	2.2372912	histoplasmaG186ar
+Supercontig_2.15	609541	610227	687	+	EEH03499.1	NACHT and WD domain-containing protein	GG663377.1	na	3.366956	0.003996577	686	2.2372912	histoplasmaG186ar
+Supercontig_2.15	610227	610913	687	+	EEH03499.1	NACHT and WD domain-containing protein	GG663377.1	na	2.47595	0.00244584	686	2.2372912	histoplasmaG186ar
+Supercontig_2.15	619151	619401	251	+	EEH03501.1	activating signal cointegrator 1 complex subunit 3	GG663377.1	na	2.351633	0.07747397	687	2.2372912	histoplasmaG186ar
+Supercontig_2.16	349661	350032	372	+	EEH03246.1	FluG domain-containing protein	GG663378.1	na	26.15247	0.002353174	531	19.605008	histoplasmaG186ar
+Supercontig_2.17	11087	11526	440	+	EEH02990.1	homoaconitase	GG663379.1	na	1.904143	0.1866229	439	1.0938542	histoplasmaG186ar
+Supercontig_2.17	40019	40086	68	-	EEH02998.1	cytokinesis protein SepA/Bni1	GG663379.1	na	1.618511	0.04962629	438	1.0938542	histoplasmaG186ar
+Supercontig_2.17	43526	43964	439	+	EEH03002.1	formate dehydrogenase-III	GG663379.1	na	5.796909	0.1160036	438	1.0938542	histoplasmaG186ar
+Supercontig_2.17	60184	60622	439	-	EEH03006.1	CaaX protease	GG663379.1	na	2.319734	0.1159066	438	1.0938542	histoplasmaG186ar
+Supercontig_2.17	79963	80350	388	-	EEH03012.1	MBOAT family protein	GG663379.1	na	3.419182	0.0920428	439	1.0938542	histoplasmaG186ar
+Supercontig_2.17	88240	88678	439	+	EEH03014.1	hypothetical protein HCBG_08654	GG663379.1	na	2.770664	0.02154848	438	1.0938542	histoplasmaG186ar
+Supercontig_2.17	132077	132516	440	+	EEH03030.1	cardiolipin synthetase	GG663379.1	na	2.636881	0.08456631	439	1.0938542	histoplasmaG186ar
+Supercontig_2.17	147483	147859	377	-	EEH03037.1	urease accessory protein UreF	GG663379.1	na	1.75794	0.6965162	439	1.0938542	histoplasmaG186ar
+Supercontig_2.17	150488	150926	439	+	EEH03038.1	ABC1 protein	GG663379.1	na	1.874506	0.3682703	438	1.0938542	histoplasmaG186ar
+Supercontig_2.17	208353	208791	439	-	EEH03060.1	hypercellular protein HypA	GG663379.1	na	1.319595	0.2485993	438	1.0938542	histoplasmaG186ar
+Supercontig_2.17	217559	217998	440	+	EEH03062.1	para-aminobenzoate synthase PabaA	GG663379.1	na	2.475211	0.81186	439	1.0938542	histoplasmaG186ar
+Supercontig_2.17	353015	353453	439	+	EEH03106.1	translation repressor	GG663379.1	na	1.918403	0.07840952	438	1.0938542	histoplasmaG186ar
+Supercontig_2.18	107140	107484	345	-	EEH02909.1	hypothetical protein HCBG_08812	GG663380.1	na	2.640312	0.1067083	344	1.8037682	histoplasmaG186ar
+Supercontig_2.18	108174	108519	346	-	EEH02909.1	hypothetical protein HCBG_08812	GG663380.1	na	2.099137	119.4348	345	1.8037682	histoplasmaG186ar
+Supercontig_2.18	115065	115410	346	+	EEH02912.1	plasma membrane ATPase	GG663380.1	na	2.344842	0.5192433	345	1.8037682	histoplasmaG186ar
+Supercontig_2.18	119199	119543	345	+	EEH02913.1	clock-controlled gene-9 protein	GG663380.1	na	2.455029	0.07599999	344	1.8037682	histoplasmaG186ar
+Supercontig_2.18	181040	181218	179	+	EEH02933.1	long-chain-fatty-acid-CoA ligase	GG663380.1	na	6.57573	0.01944798	345	1.8037682	histoplasmaG186ar
+Supercontig_2.18	201545	201889	345	+	EEH02941.1	ATP synthase subunit beta	GG663380.1	na	3.552014	0.4235425	344	1.8037682	histoplasmaG186ar
+Supercontig_2.18	324548	324893	346	-	EEH02983.1	ferro-O2-oxidoreductase	GG663380.1	na	1.826788	0.0007323713	345	1.8037682	histoplasmaG186ar
+Supercontig_2.18	324892	325236	345	-	EEH02983.1	ferro-O2-oxidoreductase	GG663380.1	na	2.887025	0.0006494908	344	1.8037682	histoplasmaG186ar
+Supercontig_2.18	325237	325582	346	-	EEH02983.1	ferro-O2-oxidoreductase	GG663380.1	na	4.784938	0.0005842793	345	1.8037682	histoplasmaG186ar
+Supercontig_2.18	325582	325927	346	-	EEH02983.1	ferro-O2-oxidoreductase	GG663380.1	na	7.417541	0.0005512757	345	1.8037682	histoplasmaG186ar
+Supercontig_2.18	325926	326233	308	-	EEH02983.1	ferro-O2-oxidoreductase	GG663380.1	na	10.13463	0.0005283374	344	1.8037682	histoplasmaG186ar
+Supercontig_2.18	327271	327305	35	+	EEH02984.1	plasma membrane iron permease	GG663380.1	na	20.94361	0.0004732122	345	1.8037682	histoplasmaG186ar
+Supercontig_2.18	327304	327648	345	+	EEH02984.1	plasma membrane iron permease	GG663380.1	na	24.7536	0.0004782622	344	1.8037682	histoplasmaG186ar
+Supercontig_2.18	327649	327994	346	+	EEH02984.1	plasma membrane iron permease	GG663380.1	na	28.07662	0.0004840931	345	1.8037682	histoplasmaG186ar
+Supercontig_2.18	327993	328337	345	+	EEH02984.1	plasma membrane iron permease	GG663380.1	na	28.89963	0.0005167873	344	1.8037682	histoplasmaG186ar
+Supercontig_2.18	328338	328401	64	+	EEH02984.1	plasma membrane iron permease	GG663380.1	na	24.53135	0.0005609526	345	1.8037682	histoplasmaG186ar
+Supercontig_2.19	16225	16502	278	+	EEH02788.1	dolichyl-diphosphooligosaccharide-protein glycosyltransferase	GG663381.1	na	1.635975	0.2544653	277	1.367314	histoplasmaG186ar
+Supercontig_2.19	33633	33909	277	+	EEH02795.1	isovaleryl-CoA dehydrogenase	GG663381.1	na	2.504116	0.1133139	276	1.367314	histoplasmaG186ar
+Supercontig_2.19	36120	36396	277	+	EEH02796.1	3-methylcrotonyl-CoA carboxylase biotin-containing subunit	GG663381.1	na	2.133532	0.2178042	276	1.367314	histoplasmaG186ar
+Supercontig_2.19	37225	37501	277	+	EEH02796.1	3-methylcrotonyl-CoA carboxylase biotin-containing subunit	GG663381.1	na	3.430173	0.4184598	276	1.367314	histoplasmaG186ar
+Supercontig_2.19	38054	38330	277	+	EEH02796.1	3-methylcrotonyl-CoA carboxylase biotin-containing subunit	GG663381.1	na	1.863376	0.09867972	276	1.367314	histoplasmaG186ar
+Supercontig_2.19	42476	42753	278	+	EEH02797.1	D-arabinitol dehydrogenase	GG663381.1	na	2.415767	0.300395	277	1.367314	histoplasmaG186ar
+Supercontig_2.19	88346	88623	278	-	EEH02812.1	endo-beta-1,3-glucanase	GG663381.1	na	2.795565	0.3705	277	1.367314	histoplasmaG186ar
+Supercontig_2.19	105478	105755	278	+	EEH02818.1	hypothetical protein HCBG_08928	GG663381.1	na	1.469654	0.1164404	277	1.367314	histoplasmaG186ar
+Supercontig_2.19	128689	128965	277	-	EEH02825.1	palmitoyltransferase pfa5	GG663381.1	na	4.583227	0.2184691	276	1.367314	histoplasmaG186ar
+Supercontig_2.19	179794	179809	16	+	EEH02843.1	alpha 1,6 mannosyltransferase	GG663381.1	na	5.175637	0.287862	276	1.367314	histoplasmaG186ar
+Supercontig_2.19	201363	201640	278	-	EEH02848.1	beta-galactosidase/beta-glucuronidase	GG663381.1	na	1.750259	0.4569656	277	1.367314	histoplasmaG186ar
+Supercontig_2.20	26189	26302	114	-	EEH02699.1	glutathione-dependent formaldehyde-activating GFA	GG663382.1	na	123.6322	0.000696189	260	7.45572540000001	histoplasmaG186ar
+Supercontig_2.20	26302	26562	261	-	EEH02699.1	glutathione-dependent formaldehyde-activating GFA	GG663382.1	na	124.686	0.0006653585	260	7.45572540000001	histoplasmaG186ar
+Supercontig_2.20	26563	26679	117	-	EEH02699.1	glutathione-dependent formaldehyde-activating GFA	GG663382.1	na	115.2105	0.0006570205	261	7.45572540000001	histoplasmaG186ar
