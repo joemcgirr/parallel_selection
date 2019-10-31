@@ -4,11 +4,6 @@ parser = argparse.ArgumentParser(description='Parse SweeD Report to create resul
 parser.add_argument('species_names', metavar='names', nargs='+',type = str,
                     help='one or more species names matching prefix(s) for .vcf file(s). ex: species1 species2 species3')
 
-# parser = argparse.ArgumentParser(description='Parse SweeD Report to create results table')
-# parser.add_argument('-l', '--list', help='delimited list input', type=str)
-# args = parser.parse_args()
-# my_list = [str(item) for item in args.list.split(',')]
-
 args = parser.parse_args()
 
 for species_list in vars(args).values():
