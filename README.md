@@ -20,17 +20,20 @@ vcftools --vcf species1_snps.vcf --minQ 20 --maf 0.05 --max-missing 0.9 --remove
 sed 's/,\*//g' species1_filtered_snps.recode.vcf > species1_filtered_snps_sweed.vcf
 ```
 
-## 2. deduplicate .bam files with picard.jar
+## 2. Run selective sweep scan with SweeD
 ```
-java -Xmx10g -jar picard.jar MarkDuplicates INPUT=sample.sort.bam OUTPUT=sample.sort.dedup.bam METRICS_FILE=sample.metrics.txt MAX_FILE_HANDLES=1000
-samtools index sample.sort.dedup.bam
+./SweeD-P -input species1_filtered_snps_sweed.vcf -name species1_grid1000 -strictPolymorphic -folded -grid 1000 -osfs species1_sfs_grid1000 -threads 4
+
 ```
-## 3. call snps with gatk 3.8
+## 3. Parse SweeD output
 ```
-gatk -T HaplotypeCaller -ERC GVCF -drf DuplicateRead -R reference.fasta -I sample.sort.dedup.bam -dontUseSoftClippedBases -stand_call_conf 20.0 -nct 4 -o sample_raw_variants.g.vcf
-gatk -T GenotypeGVCFs -R reference.fasta --variant sample1_raw_variants.g.vcf --variant sample2_raw_variants.g.vcf -o merged_raw_variants.vcf
-vcftools --vcf merged_raw_variants.vcf --maf 0.05 --max-missing 0.9 --remove-indels --recode --out filtered_snps.vcf
+sed '/^#/ d' species1_filtered_snps_sweed.vcf | awk '{print $1}' | cat -n | sort -k2 | uniq -f1 -d | sort -n | cut -f2- | nl > species1_chrom_key.txt
 ```
+> After creating `species1_chrom_key.txt` run `ParseSweeD.py` to create a dataframe with results
+```
+python3 ParseSweeD.py -species1 species2 species3
+```
+
 ## 4. calculate Fst, Tajima's D, and pi with vcftools
 ```
 vcftools --vcf filtered_snps.vcf --keep populations_1_and_2.txt --out population_1_vs_2.weir.fst --weir-fst-pop population_1.txt --weir-fst-pop population_2.txt
