@@ -1,26 +1,23 @@
-# Genomic Analyses
-## genomes.ipynb jupyter notebook generates scripts to:
-1. trim and align reads
-2. deduplicate .bam files
-3. call snps with gatk 3.8
-4. calculate Fst, Tajima's D, and pi with vcftools
-5. calculate Dxy with simon martin scripts
-6. find hard sweeps with SweeD
-7. create RaxML plylogeny
-8. GWAS with GEMMA
+# Parallel Selection
+> This repository contains scripts used to identify genomic regions under selection in multiple lineages.
+>
+> Analyses begin with a `.vcf` file generated with samtools mpileup
+
+## parallel_selection.ipynb jupyter notebook generates scripts to:
+1. Quality filter `.vcf` to include only biallelic SNPs
+2. Run selective sweep scan with SweeD
+3. Parse SweeD output
+4. Identify gene features within sweeping regions 
+5. Identify gene features sweeping in multiple populations and plot results
+
 
 # Commands
-## 1. unzip, trim, and align reads
+## 1. Quality filter `.vcf` to include only biallelic SNPs
+> Requires samtools and vcftools
 ```
-gzip -d sample.fq.gz
-trim_galore -q 20 --paired --illumina sample_R1.fq sample_R2.fq
-bwa mem -aM -t 4 -R "@RG\\tID:group1\\tSM:'+infile+'\\tPL:illumina\\tLB:lib1" reference.fasta sample_trim_R1.fq sample_trim_R2.fq > sample.sam
-samtools view -Shu sample.sam > sample.bam
-samtools index sample.bam
-samtools sort sample.bam -o sample.sort.bam
-samtools index sample.sort.bam
-rm sample.sam
-rm sample.bam
+bcftools call --threads 4 -m -Ov -o species1_snps.vcf species1_raw_variants.vcf
+vcftools --vcf species1_snps.vcf --minQ 20 --maf 0.05 --max-missing 0.9 --remove-indels --min-alleles 2 --max-alleles 2 --recode --out species1_filtered_snps
+sed 's/,\*//g' species1_filtered_snps.recode.vcf > species1_filtered_snps_sweed.vcf
 ```
 
 ## 2. deduplicate .bam files with picard.jar
@@ -82,19 +79,3 @@ gwas/gemma-0.98.1-linux-static -bfile biallelic_snps.plink -w 50000000 -s 100000
 
 
 
-## Species matched to sample name
-San Salvador Island Generalists
-["RHPA1","SPPA1","CRPA3","MRKA1","PIGA3","WDPA1","OSPA4","ME2A2","OSPA7","OYSA1","PIGA1","OSPA6","OSPA5","CRPA1","MERA2","GNYA1","LILA1","ME2A1","GREA1","OSPA1","OSPA9","OYSA2","CLRA1","OSPA11","NLLA1","OSPA13","GREA2","OSPA12","OSPA8","PAIA1","MERA3","OSPA10"]
-### San Salvador Island Molluscivores
-["OYSM8","CRPM8","CRPM7","OSPM6","OSPM7","LILM5","OYSM6","OSPM5","CRPM3","CRPM6","MRKM5","OYSM1","CRPM9","CRPM2","LILM4","CRPM11","OSPM11","CRPM10","OSPM3","OSPM9","OYSM3","MRKM3","OYSM2","OSPM2","OYSM5","WDPM2","LILMQ","OSPM4","OSPM10","OSPM8","LILM3","OYSM4","OSPM1","OYSM7","MRKM1","MRKM4","MRKM2","CRPM1","CRPM5"]
-### San Salvador Island Scale-eaters
-
-["ME2P1","CRPP3","CRPP7","OSPP9","LILP4","CRPP8","OSPP1","LILP3","OYSP6","OSPP8","LILPQ","OYSP7","OYSP1","CRPP5","OSPP3","OSPP11","CRPP9","CRPP2","OSPP5","CRPP4","CRPPQ","LILP5","OSPP6","OSPP7","OSPP10","OSPP2","OSPP4","OYSP3","OYSP4"]
-### San Salvador Island Small-jawed Scale-eaters
-
-["OSPS8","OSPS2","GRES4","OYSS3","GREP1","OSPS11","OSPS5","LILS1","GRES3","OYSS5","GREP2","OSPS3","LILS3","LILS4","MERP1","LILS2","OSPS7","OSPS10","OSPS1","OSPS9","OYSS4","OYSS6","MERP2","OYSS9","OSPS6","OSPS4"]
-### Caribbean Generalists and Outgroups
-["MEGQ1","GEO2A8","CATA1","CUNP5","BAVA8","ARTA2","GEO2A5","VENA1","CURA21","VENA12","GEO2A9","NCCA11","NCCA4","GEOA2","NCCA2","NCCA5","NCCA12","CUNP7","NCCA1","NCCA15","GEOA10","BAVA11","CUNA6","NCCA9","BAVA2","FCTA1","BAVA4","VENA5","CUNA1","GEOA6","VENA10","MAY1","BAVA6","CUNP4","VENA2","BAVA5","CUNA2","BAVA10","CUNA7","VENA3","GEO2A1","CUNA10","EXUA2","NBIA1","BAVA14","CUNA4","FLSA1","CUNP11","MAFA1","VENA9","CUNA3","VENA7","PWLA1","ETA1","GEOA7","GEO2A6","BAVA42","BAVA7","VENA8","BAVA9","GEO2A7","NCCA8","SIM1","GEOA1","ARTA1","EPLA1","NCCA3","ACKA1","GEOA5","NCCA10","VENA13","GEOA4","CUNA9","KILA1","GEOA11","BAVA13","VENA4","CAIA1","BAVA41","CUNP3","LGIA1","EXUA1","CUNA8","DEAA1","BAVA12","CURA1","CUNP6","CURA2","BONA1","CUNA5","NCCA7","GEO2A3","GEO2A10","GEO2A4","SCLA1","GEO2A2","SALA1","NCCA6"]
-fdir = "/pine/scr/j/m/jmcgirr/pupfish_genomes/Caribbean_pups/"
-### San Salvador Island Breeders Used to Generate F1s for RNAseq
-["CRPM1001","CRPP1000","CRPM1000","NCCA1000","CRPP1001","CRPA1000","OSPM1001","CRPA1001","CUNP10.2","OSPA1001","OSPP1000","OSPA1000","CRPA1003","OSPM1000","OSPP1001"]
