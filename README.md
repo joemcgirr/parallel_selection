@@ -1,7 +1,7 @@
 # Parallel Selection
 > This repository contains scripts used to identify genomic regions under selection in multiple lineages with SweeD.
 >
-> see [SweeD documentation](https://cme.h-its.org/exelixis/resource/download/software/sweed3.0_manual.pdf) for details
+> see [SweeD documentation](https://cme.h-its.org/exelixis/resource/download/software/sweed3.0_manual.pdf) and [Pavlidis et al 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3748355/) for details
 >
 > Analyses begin with a `.vcf` file generated with samtools mpileup
 
