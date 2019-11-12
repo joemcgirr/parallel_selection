@@ -33,7 +33,7 @@ sed '/^#/ d' species1_filtered_snps_sweed.vcf | awk '{print $1}' | cat -n | sort
 ```
 > After creating `species1_chrom_key.txt` run `ParseSweeD.py` to create a dataframe with results
 ```
-python3 ParseSweeD.py -species1 species2 species3
+python3 ParseSweeD.py -species1
 ```
 
 ## 4. Identify gene features sweeping in multiple populations and plot results
