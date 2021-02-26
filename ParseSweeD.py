@@ -2,7 +2,9 @@
 # a software that identifies signitures of selective sweeps.
 # It takes the output file from SweeD and organizes it for easy visualization 
 # in R (see https://github.com/joemcgirr/parallel_selection/blob/master/parallel_selection.R).
-#
+# It also requires a file that orders chromosomes or scaffolds as they appear in 
+# the vcf analyzed by SweeD 
+# (see https://github.com/joemcgirr/parallel_selection/blob/master/example_data/Neoformans_chrom_key.txt)
 #
 #
 # Example usage: 
