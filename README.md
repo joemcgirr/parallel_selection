@@ -18,7 +18,7 @@
 > Requires samtools and vcftools
 ```
 bcftools call --threads 4 -m -Ov -o species1_snps.vcf species1_raw_variants.vcf
-vcftools --vcf species1_snps.vcf --minQ 20 --maf 0.05 --max-missing 0.9 --remove-indels --min-alleles 2 --max-alleles 2 --recode --out species1_filtered_snps
+vcftools --vcf species1_snps.vcf --minQ 20 --maf 0.05 --max-missing 0.9 --remove-indels --min-alleles 2 --max-alleles 2 --recode --recode-INFO-all --out species1_filtered_snps
 sed 's/,\*//g' species1_filtered_snps.recode.vcf > species1_filtered_snps_sweed.vcf
 ```
 
@@ -33,7 +33,7 @@ sed '/^#/ d' species1_filtered_snps_sweed.vcf | awk '{print $1}' | cat -n | sort
 ```
 > After creating `species1_chrom_key.txt` run `ParseSweeD.py` to create a dataframe with results
 ```
-python3 ParseSweeD.py -species1 species2 species3
+python3 ParseSweeD.py -species1
 ```
 
 ## 4. Identify gene features sweeping in multiple populations and plot results
