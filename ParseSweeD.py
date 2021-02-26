@@ -1,3 +1,7 @@
+#------------------------------------------------------------------------------------
+#
+# ParseSweeD.py
+#
 # This script generates a data frame contatining results from SweeD,
 # a software that identifies signitures of selective sweeps.
 # It takes the output file from SweeD and organizes it for easy visualization 
@@ -12,8 +16,8 @@
 #
 # Script will look for files named:
 # SweeD_Report.<species1-3>_grid1000 and <species1-3>_chrom_key.txt
-
-
+#
+#------------------------------------------------------------------------------------
 
 
 import argparse
