@@ -1,3 +1,19 @@
+# This script generates a data frame contatining results from SweeD,
+# a software that identifies signitures of selective sweeps.
+# It takes the output file from SweeD and organizes it for easy visualization 
+# in R (see https://github.com/joemcgirr/parallel_selection/blob/master/parallel_selection.R).
+#
+#
+#
+# Example usage: 
+# python3 ParseSweeD.py -species1 species2 species3
+#
+# Script will look for files named:
+# SweeD_Report.<species1-3>_grid1000 and <species1-3>_chrom_key.txt
+
+
+
+
 import argparse
 
 parser = argparse.ArgumentParser(description='Parse SweeD Report to create results table')
@@ -8,8 +24,6 @@ args = parser.parse_args()
 
 for species_list in vars(args).values():
 	for species in species_list:
-		#print(species)
-		#print(type(species))
      
 		report = 'SweeD_Report.'+species+'_grid1000'
 		key = species+'_chrom_key.txt'
@@ -42,4 +56,4 @@ for species_list in vars(args).values():
 				file.write(line)
 		file.close()
  
- # might throw sweed key error if last line in chrom_key is empty
+ # Note: will throw sweed key error if last line in chrom_key is empty
