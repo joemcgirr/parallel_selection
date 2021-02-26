@@ -3,13 +3,14 @@
 ######################
 #
 # Use this script to identify and visualize genes shwoing
-# signs of a hard selective sweep at user defined thresholds
+# signs of a hard selective sweep at user defined
+# significance thresholds
 #
 ####################################################
 # 1. set working directory containing:
 #
-#     SweeD_Report.SPECIES_NAME_grid1000_sweeps.txt
-#     ProteinTable_SPECIES_NAME.csv"
+#     SweeD_Report.<SPECIES_NAME>_grid1000_sweeps.txt
+#     ProteinTable_<SPECIES_NAME>.csv"
 #
 ####################################################
 
